@@ -1,0 +1,4 @@
+seleniumbase
+selenium
+pandas
+openpyxl
